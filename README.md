@@ -30,3 +30,34 @@ A sophisticated application that recommends movies based on content similarity a
 - UI design and user experience 
 - Error handling and validation 
  
+ 
+### 6. Calculator (Python) 
+A simple yet functional calculator application built with Python. Features a user-friendly interface and supports basic arithmetic operations. 
+ 
+### 7. Alarm Clock 
+A digital alarm clock application that allows users to set and manage multiple alarms with custom sounds. 
+ 
+### 8. Typing Speed Test 
+An application that measures typing speed and accuracy, providing detailed statistics and improvement tracking. 
+ 
+### 9. Rock Paper Scissors 
+A classic game implementation with a graphical interface and score tracking. 
+ 
+### 10. URL Shortener 
+A web application that converts long URLs into shorter, more manageable links with tracking capabilities. 
+ 
+### 11. Password Manager 
+A secure application for storing and generating strong passwords with encryption. 
+ 
+### 12. Weather App 
+An application that provides real-time weather information for any location using weather APIs. 
+ 
+### 13. Tic Tac Toe 
+A strategic board game implementation with both single and multiplayer modes. 
+ 
+### 14. Titanic Survival Predictor 
+A machine learning project that predicts survival probabilities based on the Titanic dataset. 
+ 
+### 15. Air Quality Detector 
+An IoT-based application that monitors and reports air quality metrics using environmental sensors. 
+ 
